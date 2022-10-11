@@ -36,7 +36,9 @@ first introduction into programming in general, and certainly my first introduct
 Python. Therefore, I've leveraged several important basic libraries:
 
 pandas – to iterate through dataframes and create new output dataframes.
+
 matplot.lib - to generate boxplots
+
 scipy.stats. - to perform comparisons between input goi and all other genes as we iterate through the dataframe analysis.
 
 This program requires Python 3.8 or higher.
