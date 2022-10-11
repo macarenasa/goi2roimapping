@@ -43,7 +43,7 @@ scipy.stats. - to perform comparisons between input goi and all other genes as w
 
 This program requires Python 3.8 or higher.
 
-# Using Goi2Roimapping
+# Using goi2roimapping
 In its current form, the program asks the user to input a working directory for the
 reference data and brain region key. The program will ask the user for this at key steps when
 required and then ask for further required inputs (gene names of interest).
